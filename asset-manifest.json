@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-burger-builder/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-burger-builder/static/js/main.6c244a94.chunk.js",
+    "main.js.map": "/react-burger-builder/static/js/main.6c244a94.chunk.js.map",
+    "runtime-main.js": "/react-burger-builder/static/js/runtime-main.aa444c36.js",
+    "runtime-main.js.map": "/react-burger-builder/static/js/runtime-main.aa444c36.js.map",
+    "static/js/2.86f124a9.chunk.js": "/react-burger-builder/static/js/2.86f124a9.chunk.js",
+    "static/js/2.86f124a9.chunk.js.map": "/react-burger-builder/static/js/2.86f124a9.chunk.js.map",
+    "index.html": "/react-burger-builder/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-burger-builder/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.86f124a9.chunk.js.LICENSE.txt": "/react-burger-builder/static/js/2.86f124a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa444c36.js",
+    "static/js/2.86f124a9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6c244a94.chunk.js"
+  ]
+}
